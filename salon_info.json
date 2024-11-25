@@ -1,0 +1,109 @@
+{
+    "about_salon": "Amber Salon is a premier destination for luxurious beauty services, designed to help you look and feel your best. From precision haircuts and rejuvenating facials to expert manicures, waxing, and exclusive bridal packages, we offer a comprehensive range of treatments tailored to your unique needs. Our team of highly trained professionals is passionate about delivering personalized care in a relaxing and elegant environment. Whether you’re indulging in premium hair treatments, unwinding with a soothing massage, or perfecting your look with our expert makeup services, Amber Salon ensures a transformative and unforgettable experience.",
+    "services_offered": {
+        "men": {
+            "hair_services": [
+                "Men's Haircuts",
+                "Beard Trimming",
+                "Shaving",
+                "Hair Coloring for Men",
+                "Scalp Treatments",
+                "Hair Straightening"
+            ],
+            "skin_services": [
+                "Men's Facials",
+                "Deep Cleansing Facial",
+                "Anti-Aging Facial",
+                "Skin Brightening Treatment"
+            ],
+            "other_services": [
+                "Men's Manicure",
+                "Men's Pedicure",
+                "Body Waxing",
+                "Relaxing Massage Therapy"
+            ]
+        },
+        "women": {
+            "hair_services": [
+                "Women's Haircuts",
+                "Hair Coloring",
+                "Balayage",
+                "Ombre",
+                "Keratin Treatments",
+                "Hair Straightening",
+                "Perming",
+                "Hair Extensions"
+            ],
+            "skin_services": [
+                "Women's Facials",
+                "Hydrating Facial",
+                "Brightening Facial",
+                "Anti-Aging Facial",
+                "Acne Treatment Facial",
+                "Sensitive Skin Facial"
+            ],
+            "other_services": {
+                "Manicure": {
+                    "description": "Enhance the look of your nails with our manicure services.",
+                    "nail_shapes": [
+                        "Stiletto",
+                        "Lipstick",
+                        "Flare",
+                        "Arrow Head",
+                        "Mountain Peak",
+                        "Almond",
+                        "Ballerina",
+                        "Edge",
+                        "Rounded",
+                        "Square",
+                        "Squared Oval",
+                        "Oval"
+                    ]
+                },
+                "Pedicure": "Relax and rejuvenate your feet with our pedicure services.",
+                "Full Body Waxing": "Smooth and silky skin with our full-body waxing services.",
+                "Threading and Eyebrow Shaping": "Achieve perfect eyebrows and facial hair grooming.",
+                "Bridal Makeup": "Get ready for your special day with our bridal makeup services.",
+                "Party Makeup": "Look your best for parties with our professional makeup services.",
+                "Relaxing Massage Therapy": "Relieve stress and rejuvenate with our massage therapy."
+            }
+        }
+    },
+    "working_hours": {
+        "monday_to_saturday": "9:00 AM - 7:00 PM",
+        "sunday": "10:00 AM - 4:00 PM"
+    },
+    "faqs": {
+        "Do I need an appointment?": "Appointments are recommended to ensure availability, but we welcome walk-ins.",
+        "What payment methods do you accept?": "We accept cash, credit cards, and mobile payment options.",
+        "Do you offer gift cards?": "Yes, gift cards are available for all services.",
+        "Can I cancel or reschedule an appointment?": "Yes, please notify us at least 24 hours in advance for changes."
+    },
+    "appointment_booking": {
+        "details": "Appointments can be booked via our website. Visit the following link to schedule your appointment:",
+        "booking_url": "https://calendly.com/dharmpreetinsan-techebiz/amber-salon/"
+    },
+    "branches": [
+        {
+            "name": "Amber Salon - Downtown Kamloops",
+            "address": "456 Main Street, Kamloops, BC, Canada",
+            "phone": "+1-234-567-8910",
+            "email": "downtown@ambersalon.com",
+            "website": "https://downtown.ambersalon.com"
+        },
+        {
+            "name": "Amber Salon - North Shore",
+            "address": "789 Riverside Drive, Kamloops, BC, Canada",
+            "phone": "+1-234-567-8920",
+            "email": "northshore@ambersalon.com",
+            "website": "https://northshore.ambersalon.com"
+        },
+        {
+            "name": "Amber Salon - Valleyview",
+            "address": "321 Valleyview Road, Kamloops, BC, Canada",
+            "phone": "+1-234-567-8930",
+            "email": "valleyview@ambersalon.com",
+            "website": "https://valleyview.ambersalon.com"
+        }
+    ]
+}
